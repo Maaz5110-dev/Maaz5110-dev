@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Maaz Ahmad 👋
 
-<!--
-**Maaz5110-dev/Maaz5110-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** → on my way to **Data Scientist**
+📍 Lahore, Pakistan | 🌍 Target: Dubai
+📊 Python • SQL • Power BI • Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+- 📊 E-commerce Sales Dashboard (SQL + Power BI)
+- 🏠 Dubai Real Estate Price Analysis & Prediction (Python + ML)
+- 📉 Customer Churn Prediction (Machine Learning)
+
+- ### 🛠️ Tech Stack
+
+
+### 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/maaz-ahmad-9385b625b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- ✉️ Email: maazsial823@gmail.com
+
+---
+⭐ *From data to decisions — that's the journey.*
+
