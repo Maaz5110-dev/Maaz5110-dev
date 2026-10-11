@@ -16,7 +16,7 @@
 
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/maaz-ahmad-9385b625b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 💼 LinkedIn: https://www.linkedin.com/in/maaz-ahmad-9385b625b
 - ✉️ Email: maazsial823@gmail.com
 
 ---
