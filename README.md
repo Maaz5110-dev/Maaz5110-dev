@@ -11,7 +11,8 @@
 - 🏠 Dubai Real Estate Price Analysis & Prediction (Python + ML)
 - 📉 Customer Churn Prediction (Machine Learning)
 
-- ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
+
 
 
 ### 📫 Connect With Me
